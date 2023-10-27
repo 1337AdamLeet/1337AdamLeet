@@ -1,19 +1,12 @@
 ![Batman Banner](https://img.wattpad.com/7a562b4f2094c5a6ff8867871d746c8f42a6be74/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f72776d496f336b574d67675956673d3d2d313331313835313233392e313734303762353931643636316536303733373237303631393337392e676966)
 
 <h1 align="center">hey ! my name is pacho</h1>
-<h3 align="center">A passionate Cyber security and software student!</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337adamleet&label=Profile%20views&color=0e75b6&style=flat" alt="1337adamleet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1337adamleet" alt="1337adamleet" /></a> </p>
-
-
 - 🌱 I’m currently learning **C , python , sql**
-
 - 💬 Ask me about **python and C**
-
 - ⚡ Fun fact **my tryhackme profile is worse than yours yet im still better! :)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
