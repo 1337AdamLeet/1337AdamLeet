@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337adamleet&label=Profile%20views&color=0e75b6&style=flat" alt="1337adamleet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1337adamleet" alt="1337adamleet" /></a> </p>
-<p>- 🌱 I’m currently learning **C , python , sql**
-- 💬 Ask me about **python and C**
-- ⚡ Fun fact **my tryhackme profile is worse than yours yet im still better! :)**
-<h3 align="left">Connect with me:</h3>
+<p>frontend development
+  backend development
+  malware development/analysis
+  cyberSecurity
 <p align="left">
 </p>
 
