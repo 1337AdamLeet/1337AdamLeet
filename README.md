@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **python and C**
 
-- 📫 How to reach me **AdamelfegieryBuisness@outlook.com**
-
 - ⚡ Fun fact **my tryhackme profile is worse than yours yet im still better! :)**
 
 <h3 align="left">Connect with me:</h3>
