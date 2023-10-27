@@ -1,6 +1,6 @@
 ![Batman Banner](https://img.wattpad.com/7a562b4f2094c5a6ff8867871d746c8f42a6be74/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f72776d496f336b574d67675956673d3d2d313331313835313233392e313734303762353931643636316536303733373237303631393337392e676966)
 
-<h1 align="center">hey ! my name is Adam elfegiery</h1>
+<h1 align="center">hey ! my name is Adam</h1>
 <h3 align="center">A passionate Cyber security and software student!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1337adamleet&label=Profile%20views&color=0e75b6&style=flat" alt="1337adamleet" /> </p>
