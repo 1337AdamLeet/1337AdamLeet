@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1337adamleet" alt="1337adamleet" /></a> </p>
 
-- 🔭 I’m currently working on [nothing yet...](nothing yet....)
 
 - 🌱 I’m currently learning **C , python , sql**
 
